@@ -22,3 +22,6 @@ deploy.ps1
 
 # test file
 utils/test.py
+
+# idea
+.idea
