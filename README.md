@@ -49,7 +49,10 @@ py -m venv venv
 source venv/bin/activate # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
-
+if you are on Windows, install these requirements instead:
+```
+pip install -r requirements_windows.txt
+```
 2. run main.py to launch UI.
 ```
 py main.py
